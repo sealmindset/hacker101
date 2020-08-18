@@ -1,4 +1,6 @@
 # Hacker101
+[![DepShield Badge](https://depshield.sonatype.org/badges/sealmindset/hacker101/depshield.svg)](https://depshield.github.io)
+
 
 [Hacker101](https://www.hacker101.com/) is a free class for web security.
 Whether you're a programmer with an interest in bug bounties or a seasoned
